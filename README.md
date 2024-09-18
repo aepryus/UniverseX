@@ -8,7 +8,7 @@ Over time I will be able to polish the videos one by one (perhaps multiple times
 
 ## Universe X
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iT2jcY8m5uk?si=5lQpoFl9kmBekB0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://youtu.be/iT2jcY8m5uk?si=i7AXDfELwFNU3Mn7
 
 ## Aether
 
